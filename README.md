@@ -1,10 +1,10 @@
-# transparencyAI 🏛️💰
+# Uwazi++AI 🏛️💰
 
 An AI-powered budget transparency platform designed to analyze Kenyan government budgets, provide insights, and generate helpful visualizations for citizens and stakeholders.
 
 ## 🎯 Project Overview
 
-**transparencyAI** leverages artificial intelligence to transform complex budget data into understandable insights, making government spending transparent and accessible to all Kenyans.
+**UwaziAI** leverages artificial intelligence to transform complex budget data into understandable insights, making government spending transparent and accessible to all Kenyans.
 
 ### Key Features
 
