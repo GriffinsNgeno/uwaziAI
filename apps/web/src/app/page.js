@@ -3,8 +3,8 @@
 import { useState, useEffect, useRef } from 'react';
 import { Chart, registerables } from 'chart.js';
 import BudgetChat from './components/BudgetChat';
-import Sidebar from './components/Sidebar';
-import MobileToggle from './components/MobileToggle';
+// import Sidebar from './components/Sidebar';
+// import MobileToggle from './components/MobileToggle';
 
 // Register Chart.js components
 Chart.register(...registerables);
@@ -501,15 +501,15 @@ export default function Dashboard() {
   return (
     <div className="flex h-screen bg-gray-50">
       {/* Sidebar */}
-      <Sidebar 
+      {/* <Sidebar 
         budgetData={budgetData}
         summary={summary}
         isOpen={sidebarOpen}
         onToggle={() => setSidebarOpen(!sidebarOpen)}
-      />
+      /> */}
 
       {/* Mobile Toggle */}
-      <MobileToggle onToggle={() => setSidebarOpen(!sidebarOpen)} />
+      {/* <MobileToggle onToggle={() => setSidebarOpen(!sidebarOpen)} /> */}
 
       {/* Main Content */}
       <div className="flex-1 flex flex-col overflow-hidden">
