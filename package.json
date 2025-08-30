@@ -1,0 +1,30 @@
+{
+  "name": "transparency-ai",
+  "version": "1.0.0",
+  "description": "AI-powered budget transparency platform for Kenyan government budgets",
+  "private": true,
+  "scripts": {
+    "dev": "cd apps/web && npm run dev",
+    "build": "cd apps/web && npm run build",
+    "start": "cd apps/web && npm run start",
+    "install-all": "cd apps/web && npm install",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": [
+    "ai",
+    "budget",
+    "transparency",
+    "kenya",
+    "government",
+    "data-visualization"
+  ],
+  "author": "transparencyAI Team",
+  "license": "MIT"
+}

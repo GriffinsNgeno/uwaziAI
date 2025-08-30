@@ -1,0 +1,23 @@
+{
+  "name": "@transparency-ai/ai-engine",
+  "version": "1.0.0",
+  "description": "AI-powered budget analysis engine for transparencyAI",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "dev": "node scripts/build.js --watch",
+    "clean": "rimraf dist"
+  },
+  "dependencies": {
+    "@transparency-ai/types": "workspace:*",
+    "@transparency-ai/utils": "workspace:*",
+    "openai": "^4.0.0",
+    "tensorflow": "^4.0.0"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}

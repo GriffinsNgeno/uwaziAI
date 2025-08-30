@@ -1,0 +1,3 @@
+id,name,amount,currency,category,department,year,quarter,description,location,status
+6,Test Project 1,500000000,KES,Technology,Ministry of ICT,2025,1,Test upload functionality,Test Location,planned
+7,Test Project 2,750000000,KES,Infrastructure,Ministry of Transport,2025,1,Another test project,Test Location 2,in_progress

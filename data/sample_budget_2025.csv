@@ -1,0 +1,21 @@
+id,name,amount,currency,category,department,year,quarter,description,location,status
+1,Road Infrastructure Development,2500000000,KES,Infrastructure,Ministry of Transport,2025,1,Construction and maintenance of major highways,Nairobi-Mombasa Highway,planned
+2,Digital Government Services,800000000,KES,Technology,Ministry of ICT,2025,1,E-government platform development,Nairobi,in_progress
+3,Healthcare Equipment,1200000000,KES,Healthcare,Ministry of Health,2025,1,Medical equipment for county hospitals,Various Counties,planned
+4,Education Infrastructure,1800000000,KES,Education,Ministry of Education,2025,1,Construction of new schools and classrooms,Rural Areas,planned
+5,Agricultural Support Program,950000000,KES,Agriculture,Ministry of Agriculture,2025,1,Farming subsidies and equipment support,Agricultural Counties,in_progress
+6,Water Supply Projects,1500000000,KES,Infrastructure,Ministry of Water,2025,1,Rural water supply and sanitation projects,Rural Counties,planned
+7,National Security Equipment,2200000000,KES,Security,Ministry of Interior,2025,1,Police and security force equipment upgrades,Nationwide,planned
+8,Energy Infrastructure,3000000000,KES,Infrastructure,Ministry of Energy,2025,1,Renewable energy projects and grid expansion,Various Counties,planned
+9,Public Housing,1800000000,KES,Housing,Ministry of Housing,2025,1,Affordable housing units construction,Urban Areas,planned
+10,Digital Skills Training,400000000,KES,Education,Ministry of ICT,2025,1,Digital literacy programs for youth,Nationwide,in_progress
+11,County Road Networks,1200000000,KES,Infrastructure,County Governments,2025,1,Local road construction and maintenance,All Counties,planned
+12,Healthcare Training,350000000,KES,Healthcare,Ministry of Health,2025,1,Medical staff training and capacity building,Nationwide,planned
+13,Agricultural Research,280000000,KES,Agriculture,Ministry of Agriculture,2025,1,Crop research and development programs,Research Centers,planned
+14,Disaster Management,450000000,KES,Security,Ministry of Interior,2025,1,Emergency response equipment and training,Nationwide,planned
+15,Public Transport,650000000,KES,Infrastructure,Ministry of Transport,2025,1,Public transport system improvements,Major Cities,planned
+16,Digital Innovation Hub,300000000,KES,Technology,Ministry of ICT,2025,1,Innovation centers for tech startups,Nairobi,in_progress
+17,Environmental Conservation,520000000,KES,Environment,Ministry of Environment,2025,1,Forest conservation and climate initiatives,Nationwide,planned
+18,Public Libraries,180000000,KES,Education,Ministry of Education,2025,1,Modern library facilities and digital resources,All Counties,planned
+19,Healthcare Infrastructure,950000000,KES,Healthcare,Ministry of Health,2025,1,Hospital construction and renovation,Various Counties,planned
+20,Agricultural Infrastructure,750000000,KES,Agriculture,Ministry of Agriculture,2025,1,Irrigation systems and storage facilities,Agricultural Counties,planned

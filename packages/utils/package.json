@@ -1,0 +1,20 @@
+{
+  "name": "@transparency-ai/utils",
+  "version": "1.0.0",
+  "description": "Common utilities for transparencyAI",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "dev": "node scripts/build.js --watch",
+    "clean": "rimraf dist"
+  },
+  "dependencies": {
+    "@transparency-ai/types": "workspace:*"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}

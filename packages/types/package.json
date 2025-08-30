@@ -1,0 +1,17 @@
+{
+  "name": "@transparency-ai/types",
+  "version": "1.0.0",
+  "description": "Shared JavaScript types and constants for transparencyAI",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "dev": "node scripts/build.js --watch",
+    "clean": "rimraf dist"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
