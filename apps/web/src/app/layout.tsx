@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'transparencyAI - Budget Transparency Platform',
+  title: 'uwaziAI - Budget Transparency Platform',
   description: 'AI-powered budget transparency platform for Kenyan government budgets. Analyze spending patterns, detect anomalies, and generate insights.',
   keywords: ['budget', 'transparency', 'AI', 'Kenya', 'government', 'data visualization'],
   authors: [{ name: 'transparencyAI Team' }],
@@ -26,7 +26,7 @@ export default function RootLayout({
                   <span className="text-white font-bold text-xl">T</span>
                 </div>
                 <div>
-                  <h1 className="text-xl font-bold text-gray-900">transparencyAI</h1>
+                  <h1 className="text-xl font-bold text-gray-900">UwaziAI</h1>
                   <p className="text-sm text-gray-500">Budget Transparency</p>
                 </div>
               </div>
